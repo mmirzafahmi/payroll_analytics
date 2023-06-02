@@ -1,6 +1,4 @@
-# Mekari Take Home Test
-
-This take home test is a part of hiring process in Mekari for Data Engineer 2. 
+# Payroll Analytics
 
 ## Business Case
 
